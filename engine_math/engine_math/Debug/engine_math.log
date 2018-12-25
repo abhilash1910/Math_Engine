@@ -1,0 +1,12 @@
+﻿  degree_radians.cpp
+  enginemath.cpp
+  matrix.cpp
+  quaternion.cpp
+c:\users\user\source\repos\engine_math\engine_math\quaternion.h(31): warning C4930: 'mathengine::enginemath x(void)': prototyped function not called (was a variable definition intended?)
+  Source.cpp
+c:\users\user\source\repos\engine_math\engine_math\degree_radian.h(36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine_math\engine_math\degree_radian.h(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine_math\engine_math\quaternion.h(31): warning C4930: 'mathengine::enginemath x(void)': prototyped function not called (was a variable definition intended?)
+c:\users\user\source\repos\engine_math\engine_math\source.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  engine_math.vcxproj -> C:\Users\User\source\repos\engine_math\Debug\engine_math.exe
