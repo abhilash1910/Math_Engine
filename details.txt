@@ -1,0 +1,5 @@
+The folder contains separate header files -engine.h , matrix.h .degree_radian.h,quaternion.h.
+The header files all the function definitons required for vector,matrix,quarternion calculations namely transformations of vectors and quarternions in linear algebra for computer graphics.
+The source.cpp file is the main testing file for testing the individual headers for their functionality.
+The class based system has been taken to omplement the headers and are securely locked with no memory leakage .The file is one the most important building block to make a game engine and is an essential engine component for vector transformations required for redndering the game graphics for game engine.
+It will be updated with more finesse and is the primary skeletal structure of the math engine which is required for game engine development.
